@@ -16,13 +16,6 @@
 
 ---
 
-## 📊 Repo Stats
-![GitHub Repo stars](https://img.shields.io/github/stars/sarthak752008/166JavaClassCode?style=for-the-badge&logo=github)  
-![GitHub forks](https://img.shields.io/github/forks/sarthak752008/166JavaClassCode?style=for-the-badge&logo=github)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sarthak752008.166JavaClassCode)
-
----
-
 ## 🎥 OOPs in Action  
 ![OOPs Animation](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
