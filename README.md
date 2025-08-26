@@ -1,8 +1,8 @@
 # 166JavaClassCode
 
-# 🎯 Object Oriented Programming (JAVA)
+# 🎯 Object Oriented Programming (Java Classes)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&width=500&lines=Welcome+to+OOPs+Concepts+Repo!;Encapsulation+Inheritance+Polymorphism;Abstraction+and+More...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+Java+OOPs+Concepts+Repo!;Encapsulation+Inheritance+Polymorphism;Abstraction+Interfaces+and+More...)
 
 ---
 
@@ -12,13 +12,14 @@
 - 🔹 Inheritance  
 - 🔹 Polymorphism  
 - 🔹 Abstraction  
+- 🔹 Interfaces  
 
 ---
 
 ## 📊 Repo Stats
-![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge&logo=github)  
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge&logo=github)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPO)
+![GitHub Repo stars](https://img.shields.io/github/stars/sarthak752008/166JavaClassCode?style=for-the-badge&logo=github)  
+![GitHub forks](https://img.shields.io/github/forks/sarthak752008/166JavaClassCode?style=for-the-badge&logo=github)  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sarthak752008.166JavaClassCode)
 
 ---
 
